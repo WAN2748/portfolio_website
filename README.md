@@ -15,7 +15,10 @@ Over all the project was challenging but fun and will be on going.
 ![project image pencil](assets/images/pexels-pixabay-268362.jpg)
 
 ![project image drill](assets/images/pexels-bidvine-1249611.jpg)
+* after strugling with publishing my site I felt it was be to make a new repo (which was wrong!). I should of reserched more. when I did I found my problem was 
+I misspelled index (idex) I realized this when I walked though the steps of publishing here [publishing steps](https://hackernoon.com/use-custom-domain-with-github-pages-2-straightforward-steps-cf561eee244f) 
 
+![note that helped](assets/images/screenshot_183815.png) 
 ### Screenshots
 
 ![website top](./assets/images/portfolio1_ss_2-20.png)
@@ -23,3 +26,4 @@ Over all the project was challenging but fun and will be on going.
 ![website bottom](assets/images/portfolio2_ss_2-20.png)
 
 [site link](https://wan2748.github.io/pro_portfolio_webpage/) 
+
