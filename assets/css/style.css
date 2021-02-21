@@ -12,9 +12,6 @@
 body, html {
     height: 100%;
     margin: auto;
-    padding: auto;
-    display: flex;
-    flex-direction: column;
     font-family: Garamond, serif;
     background-color: var(--whitebackground);
     
@@ -31,7 +28,7 @@ header {
 .hero {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(57, 100, 1, 0.5)),
     url("../images/pexels-pixabay-460621.jpg");
-    height: 100%;
+    height: 50%;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
