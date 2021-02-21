@@ -11,7 +11,8 @@
 
 body, html {
     height: 100%;
-    margin: auto;
+    width: auto;
+    margin: 0;
     font-family: Garamond, serif;
     background-color: var(--whitebackground);
     
@@ -103,6 +104,7 @@ nav a:hover{
     flex-direction: row;
     flex-wrap: wrap;
     width: 50%;
+    margin-top: 10px;
     margin-left: 18%;
     border: 1px var(--whitebackground) none;
     text-align: left;
