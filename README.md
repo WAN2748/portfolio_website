@@ -8,6 +8,7 @@ Over all the project was challenging but fun and will be on going.
 * header made with the aid of [W3schools](https://www.w3schools.com/howto/howto_css_hero_image.asp) for the hero image
 * links in nav bar were made with the aid of [stack overflow](https://stackoverflow.com/questions/47960948/link-grow-font-on-hover) to grow links for visability
 * had to run with trial and error with the linear-gradient when root colors would not work and discovered that rgb was appropriate
+* had a problem with the page opening at 50% zoom in chrome John the instructor pointed that out to me. I also used the aid of [stackoverflow](https://stackoverflow.com/questions/712689/css-div-stretch-100-page-height) to change the zoom when the page is opened
 * the image flip with in projects was seen before and wanted it for more flair it was implemented with the aid of [W3scools](https://www.w3schools.com/howto/howto_css_flip_image.asp)
 * styling images were both provided by [pexels](https://www.pexels.com/)
 ![hero background](assets/images/pexels-pixabay-460621.jpg)
