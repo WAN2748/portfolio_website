@@ -8,13 +8,18 @@
     box-sizing: border-box;
 }
 
+html { 
+    height: 100%;
+    position: relative; 
+}
+
 body {
     height: 100%;
     margin: 0%;
     padding-top: 0%;
     font-family: Garamond, serif;
     background-color: var(--whitebackground);
-    width: 100%;
+    
 
     
 }
