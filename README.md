@@ -26,5 +26,5 @@ I misspelled index (idex) I realized this when I walked though the steps of publ
 
 ![website bottom](assets/images/portfolio2_ss_2-20.png)
 
-[site link](https://wan2748.github.io/pro_portfolio_webpage/) 
+[site link](https://wan2748.github.io/portfolio_website/) 
 
