@@ -18,21 +18,18 @@ body {
     margin: 0%;
     padding-top: 0%;
     font-family: Garamond, serif;
-    background-color: var(--whitebackground);
-    
-
-    
+    background-color: var(--whitebackground);    
 }
 
 header {
     text-align: center;
-
 }
 
 .hero {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(57, 100, 1, 0.5)),
     url("../images/pexels-pixabay-460621.jpg");
     height: 80%;
+    margin-top: -18%;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -84,6 +81,11 @@ nav a:hover{
     font-size: 150%;
 }
 
+.about-text {
+    font-size: x-large;
+    padding-left: 2%;
+}
+
 .aboutbox, .contactbox {
 
     width: 50%;
@@ -112,6 +114,22 @@ nav a:hover{
     background-image: linear-gradient(to right, rgba(98, 168, 6, 0.5), rgb(255, 245, 238));
 
 }
+
+.top-right {
+    position: absolute;
+    top: 6px;
+    right: 5px;
+    font-size: large;
+  }
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: xx-large;
+    border: 2px solid white;
+  }
 
 .flip-box {
 
@@ -157,6 +175,12 @@ nav a:hover{
     transform: rotateY(180deg);
 }
 
+.flip-box-back-mp3 {
+    background-color: red;
+    color: black;
+    transform: rotateY(180deg);
+}
+
 
 .aboutbox h2, .projectsbox h2, .contactbox h2 {
     margin: 30px;
@@ -174,13 +198,15 @@ article img {
 }
 
 footer {
+    
     font-size: 15px;
     display: flex;
     justify-content: center;
     justify-self: space-between;
     position: relative;
     background-color: var(--bluebackground);
-    background-image: linear-gradient(to top, rgba(98, 168, 6, 0.5), rgba(98, 168, 6, 0.5), rgb(255, 245, 238));
+    
+    /*background-image: linear-gradient(to top, rgba(98, 168, 6, 0.5), rgba(98, 168, 6, 0.5));
 }
 
 
