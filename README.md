@@ -30,3 +30,15 @@ I misspelled index (idex) I realized this when I walked though the steps of publ
 
 #### Update 4/5/2021
 * Fixed navbar placed at top of page and made sticky for scrolling 
+* added projects to showcase skills
+* added about me section
+* added updated resume with download link
+* added bootstrap and font awesome and bootstrap for styling
+
+##### Screenshots
+
+![website top](./assets/images/ssprofoliotop.png)
+
+![website bottom](./assets/images/ssportfoliobtm.png)
+
+[site link](https://wan2748.github.io/portfolio_website/) 
