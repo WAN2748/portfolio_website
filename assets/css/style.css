@@ -129,6 +129,7 @@ nav a:hover{
     transform: translate(-50%, -50%);
     font-size: xx-large;
     border: 2px solid white;
+    background-color: rgb(255, 245, 238);
   }
 
 .flip-box {
@@ -187,14 +188,11 @@ nav a:hover{
     font-size: 40px;
 }
 
-.contactbox li {
-    font-size: 30px;
-}
-
-.contactbox p {
+.contactbox li, .contactbox p {
     font-size: 30px;
     padding-left: 5%;
 }
+
 
 article img {
     display: flex;

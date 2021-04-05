@@ -28,3 +28,5 @@ I misspelled index (idex) I realized this when I walked though the steps of publ
 
 [site link](https://wan2748.github.io/portfolio_website/) 
 
+#### Update 4/5/2021
+* Fixed navbar placed at top of page and made sticky for scrolling 
