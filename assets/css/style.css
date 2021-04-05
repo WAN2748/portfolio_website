@@ -187,8 +187,13 @@ nav a:hover{
     font-size: 40px;
 }
 
-.contactbox li, .contactbox p {
+.contactbox li {
     font-size: 30px;
+}
+
+.contactbox p {
+    font-size: 30px;
+    padding-left: 5%;
 }
 
 article img {
